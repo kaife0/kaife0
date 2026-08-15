@@ -13,7 +13,6 @@
   <a href="https://github.com/kaife0?tab=followers">
     <img src="https://img.shields.io/github/followers/kaife0?label=Followers&style=for-the-badge&color=4A00E0&labelColor=0F2027&logo=github" alt="followers" />
   </a>
-  <img src="https://img.shields.io/badge/Jharkhand-India%20%F0%9F%87%AE%F0%9F%87%B3-8E2DE2?style=for-the-badge&labelColor=0F2027" alt="location" />
   <img src="https://img.shields.io/badge/Open%20To-Work-00C853?style=for-the-badge&labelColor=0F2027" alt="open to work" />
 </p>
 
@@ -22,7 +21,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## &nbsp;👨‍💻 &nbsp;About Me
 
-<img align="right" alt="coding" width="360" src="https://github.githubassets.com/images/mona-loading-default.gif" />
+<img align="right" alt="coding" width="340" src="https://github.githubassets.com/images/mona-loading-default.gif" />
 
 ```typescript
 const kaif = {
@@ -33,7 +32,7 @@ const kaif = {
   backend:    ["Node.js", "Express.js", "REST APIs", "JWT"],
   database:   ["MongoDB", "Mongoose", "SQL"],
   cloud:      ["GCP", "Firebase", "Docker", "Cloud Storage"],
-  shipped:    "45+ REST APIs · 2 apps live on Google Play",
+  shipped:    "45+ REST APIs · 3+ apps live on Google Play",
   funFact:    "I debug faster after midnight ☕"
 };
 ```
@@ -41,27 +40,22 @@ const kaif = {
 - 🎓 &nbsp;**B.Tech in Computer Science & Engineering — Completed (2022–2026)**
 - 💼 &nbsp;Currently **Software Developer @ Cocoloops** — AI-powered audiobooks for kids
 - 🚀 &nbsp;Shipped **45+ production REST APIs** across EdTech, HealthTech & social platforms
-- 📱 &nbsp;**2 apps live on the Google Play Store** — built end-to-end
+- 📱 &nbsp;**3+ apps live on the Google Play Store** — built end-to-end
 - 🌱 &nbsp;Levelling up on **System Design, TypeScript & Cloud Architecture**
 - 💬 &nbsp;Ask me about **Node.js, Express, MongoDB, React, React Native & GCP**
 - 📫 &nbsp;Reach me at **mdkaif1590@gmail.com** — I reply to every message
 
 <br clear="right" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:8E2DE2&height=3&section=header" width="100%" />
-
-<!-- ===================== BY THE NUMBERS ===================== -->
-## &nbsp;📈 &nbsp;By The Numbers
-
 <div align="center">
 
 | 🚀 REST APIs | 📱 Play Store Apps | 🏢 Companies | ⚡ Latency Cut |
 |:---:|:---:|:---:|:---:|
-| **45+** | **2** | **4** | **~35%** |
+| **45+** | **3+** | **4** | **~35%** |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:2C5364&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:8E2DE2&height=3&section=header" width="100%" />
 
 <!-- ===================== TECH STACK ===================== -->
 ## &nbsp;🛠️ &nbsp;Tech Stack
@@ -77,7 +71,7 @@ const kaif = {
   </tr>
   <tr>
     <td align="center"><b>&nbsp;Mobile&nbsp;</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react,firebase,androidstudio,expo&theme=dark" height="45" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,expo,firebase,androidstudio&theme=dark" height="45" /></td>
   </tr>
   <tr>
     <td align="center"><b>&nbsp;Backend&nbsp;</b></td>
@@ -103,104 +97,28 @@ const kaif = {
   <img src="https://img.shields.io/badge/Database%20Design-8E2DE2?style=flat-square&labelColor=0F2027" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:8E2DE2&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:2C5364&height=3&section=header" width="100%" />
 
 <!-- ===================== EXPERIENCE ===================== -->
 ## &nbsp;💼 &nbsp;Experience
 
-<table>
-  <tr>
-    <td width="55%"><b>🎧 Software Developer</b><br/><sub><b>Cocoloops</b> — AI-powered audiobooks & interactive stories for kids</sub></td>
-    <td align="right"><sub><b>11/2025 – Present</b></sub></td>
-  </tr>
-  <tr><td colspan="2">
+| | Role | Company | Period | Impact |
+|:--:|:--|:--|:--|:--|
+| 🎧 | **Software Developer** | **Cocoloops** · EdTech | `11/2025 – Present` | 15+ REST APIs · GCP signed URLs cut audio load **~40%** · latency **−35%** |
+| 🏥 | **Backend Developer** <sub>freelance</sub> | **Cosma** · HealthTech | `10/2025 – 05/2026` | 20+ APIs across 2 apps · JWT + 3-role RBAC · queries **−30%** |
+| ⚡ | **Full Stack Intern** | **VoltWorks Technologies** | `07/2025 – 09/2025` | Backend for 2 apps, 1 on Play Store · 3 n8n workflows saving **6–8 hrs/wk** |
+| 📍 | **Backend Developer** <sub>freelance</sub> | **Snuger** · Social | `05/2025 – 06/2025` | 10+ APIs · MongoDB 2dsphere geo-feed · shipped to Play Store |
 
-- Designed and built **15+ REST APIs** with Node.js, Express, MongoDB & Mongoose for auth, audiobook management and content delivery
-- Implemented secure media delivery via **Google Cloud Storage + signed URLs**, cutting audio load times **~40%**
-- Resolved **10+ production API bottlenecks**, reducing latency **~35%**
-
-  </td></tr>
-</table>
-
-<table>
-  <tr>
-    <td width="55%"><b>🏥 Backend Developer <sub>(Freelance)</sub></b><br/><sub><b>Cosma</b> — Healthcare technology solutions</sub></td>
-    <td align="right"><sub><b>10/2025 – 05/2026</b></sub></td>
-  </tr>
-  <tr><td colspan="2">
-
-- Developed **20+ production REST APIs** powering healthcare workflows across **2 apps** (Clinic App + User App)
-- Implemented **JWT auth & role-based authorization** for 3 roles — admin, doctor, patient
-- Built scalable multi-clinic database models, cutting query response times **~30%**
-
-  </td></tr>
-</table>
-
-<table>
-  <tr>
-    <td width="55%"><b>⚡ Full Stack Development Intern</b><br/><sub><b>VoltWorks Technologies Pvt Ltd</b> — Software solutions</sub></td>
-    <td align="right"><sub><b>07/2025 – 09/2025</b></sub></td>
-  </tr>
-  <tr><td colspan="2">
-
-- Delivered production backend for **2 apps**; User App **published on Google Play Store** — API response time improved **~25%**
-- Built **3 automated n8n workflows** for sales reminders and data sync, saving **6–8 hrs/week** of manual work
-
-  </td></tr>
-</table>
-
-<table>
-  <tr>
-    <td width="55%"><b>📍 Backend Developer <sub>(Freelance)</sub></b><br/><sub><b>Snuger</b> — Hyperlocal social platform</sub></td>
-    <td align="right"><sub><b>05/2025 – 06/2025</b></sub></td>
-  </tr>
-  <tr><td colspan="2">
-
-- Built **10+ REST APIs** connecting users within a 5–10 km radius
-- Designed a geolocation feed using **MongoDB geospatial queries (2dsphere indexing)** for real-time nearby posts
-- Shipped core social features — posts, stories, likes, comments, follow/unfollow — **launched on Google Play Store**
-
-  </td></tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:2C5364&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:8E2DE2&height=3&section=header" width="100%" />
 
 <!-- ===================== PROJECTS ===================== -->
 <!-- 👉 Replace REPO-NAME-1 / REPO-NAME-2 with your actual repo names -->
 ## &nbsp;🚀 &nbsp;Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚗 Car Wash Booking Platform
-<sub>Booking & service management backend with real-time notifications</sub>
-
-- Full booking lifecycle — created → accepted → in&nbsp;progress → completed
-- Real-time push notification service via **Firebase FCM**
-- Built with **Node.js · Express · MongoDB · Mongoose · FCM**
-
-<a href="https://github.com/kaife0/REPO-NAME-1">
-  <img src="https://img.shields.io/badge/View%20Repo-8E2DE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2027" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Password Manager & Vault
-<sub>Zero-knowledge password generator and manager</sub>
-
-- **Client-side AES-256 encryption** with **PBKDF2** key derivation
-- Server never sees plaintext — true zero-knowledge architecture
-- Built with **React · Node.js · Express · MongoDB · Web Crypto API**
-
-<a href="https://github.com/kaife0/REPO-NAME-2">
-  <img src="https://img.shields.io/badge/View%20Repo-8E2DE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2027" />
-</a>
-
-</td>
-</tr>
-</table>
+| Project | What It Does | Stack |
+|:--|:--|:--|
+| **🚗 [Car Wash Booking Platform](https://github.com/kaife0/REPO-NAME-1)** | Full booking lifecycle with real-time FCM notifications at every stage | `Node` `Express` `MongoDB` `FCM` |
+| **🔐 [Password Manager & Vault](https://github.com/kaife0/REPO-NAME-2)** | Zero-knowledge vault — AES-256 client-side, server never sees plaintext | `React` `Node` `MongoDB` `WebCrypto` |
 
 <p align="center">
   <a href="https://github.com/kaife0?tab=repositories">
@@ -208,14 +126,18 @@ const kaif = {
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:8E2DE2&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:2C5364&height=3&section=header" width="100%" />
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 ## &nbsp;📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaife0&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" alt="GitHub Stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaife0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" alt="Top Languages" />
+  <a href="https://github.com/kaife0">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaife0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/kaife0">
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaife0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&cache_seconds=86400" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
@@ -234,7 +156,7 @@ const kaif = {
   </div>
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:2C5364&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:8E2DE2&height=3&section=header" width="100%" />
 
 <!-- ===================== NEON SNAKE ===================== -->
 ## &nbsp;🐍 &nbsp;Watch The Snake Eat My Contributions
@@ -247,7 +169,7 @@ const kaif = {
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:8E2DE2&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:2C5364&height=3&section=header" width="100%" />
 
 <!-- ===================== CONNECT ===================== -->
 ## &nbsp;🌐 &nbsp;Let's Connect
