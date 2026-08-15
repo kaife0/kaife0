@@ -21,7 +21,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## &nbsp;👨‍💻 &nbsp;About Me
 
-<img align="right" alt="coding" width="340" src="https://github.githubassets.com/images/mona-loading-default.gif" />
+<img align="right" alt="coding" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ```typescript
 const kaif = {
@@ -165,7 +165,7 @@ const kaif = {
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/kaife0/kaife0/output/snake-neon-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaife0/kaife0/output/snake-neon-light.svg" />
-    <img alt="neon snake eating my contributions" src="https://raw.githubusercontent.com/kaife0/kaife0/output/snake-neon-dark.svg" width="100%" />
+    <img alt="neon snake eating my contributions" src="https://raw.githubusercontent.com/kaife0/kaife0/output/snake-neon.gif" width="100%" />
   </picture>
 </div>
 
